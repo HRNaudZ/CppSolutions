@@ -41,3 +41,7 @@ int main(){
 		else std::cout<<a<<" "<<"NO"<<std::endl;
 	}while(a!=-1);
 }
+/**This code checks if a number is a Three number :
+	-prime and last digit is 3
+	-or all it's prime factors last digits are 3
+**/
